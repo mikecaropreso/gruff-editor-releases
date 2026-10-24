@@ -30,6 +30,8 @@ signed, but it is new, so Windows has not seen many installs yet. Click
 
 In the app, click **Make a report to send**. It comes straight to us.
 
+Questions, ideas, or just to say how it went: [join the Gruff Editor Discord](https://discord.gg/qnZQd9Fpj4).
+
 ## Licences
 
 Gruff Editor is built on free software, each part under its own licence.
