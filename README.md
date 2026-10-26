@@ -12,6 +12,11 @@ in Adobe Premiere Pro.
 
 Already have it? It checks for updates by itself once a day.
 
+**Testers get it free for good:** try it on a real episode and tell us how it went
+(in the Discord or with a problem report), and you get a free founder licence when
+Gruff goes paid. Every update through the end of 2027, and your copy keeps working
+after that. For the first 25 testers.
+
 ## What you need
 
 - Windows 10 or 11
