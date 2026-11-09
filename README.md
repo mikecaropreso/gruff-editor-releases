@@ -17,6 +17,27 @@ Already have it? It checks for updates by itself once a day.
 Gruff goes paid. Every update through the end of 2027, and your copy keeps working
 after that. For the first 25 testers.
 
+## Why Gruff
+
+Plenty of tools can switch to whoever is talking. The slow parts of a
+multicam edit are everything around that, and that's what Gruff does:
+
+- **It lines everything up for you.** Every camera and mic track, including
+  phones that drift out of time and cameras that stopped and started again.
+  No syncing by hand, no lining up waveforms.
+- **It goes wide when people talk over each other,** instead of whipping
+  between close-ups. That's where auto-switching usually falls apart.
+- **It learns how you cut.** Give it your finished edit of an episode and
+  the next one comes out closer to how you would have done it.
+- **It frames every close-up** and keeps the zoom matched between cameras.
+- **It tells you where to look.** Chapters for your description, and a short
+  list of the moments worth checking, so you don't have to watch the whole
+  thing twice.
+- **It runs on your own computer.** Your footage is never uploaded anywhere.
+
+You get a timeline with every camera stacked and the cuts made. Changing a
+shot is switching one clip off and another on.
+
 ## What you need
 
 - Windows 10 or 11
